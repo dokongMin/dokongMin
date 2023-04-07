@@ -22,8 +22,8 @@ Back-End
 ## 👋🏻 Contact
 * * *
 <br>
-**Email : jeff970069@gmail.com** <br>
-**Blog : https://dodokong.tistory.com** <br>
+- Email : jeff970069@gmail.com <br>
+- Blog : https://dodokong.tistory.com <br>
 
 
 

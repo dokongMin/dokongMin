@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 -->
 
 
-## Self Introduction
+# 🧑🏻‍💻 Self Introduction
 ---
 <div align="center">
 백엔드 개발자로 취업을 꿈꾸는 취업 준비생입니다.
 </div>
 
 
-## 🛠️ Tech Stack 🛠️
+# 🛠️ Tech Stack 🛠️
 ---
 <div align="center">
 Back-End
@@ -31,7 +31,7 @@ Back-End
 </div>
 
 
-## Contact
+# 👋🏻 Contact
 ---
 <div align="center">
 Email : jeff970069@gmail.com

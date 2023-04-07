@@ -19,21 +19,21 @@ Here are some ideas to get you started:
 # 🧑🏻‍💻 Self Introduction
 ---
 <div align="center">
-백엔드 개발자로 취업을 꿈꾸는 취업 준비생입니다.
+**백엔드 개발자로 취업을 꿈꾸는 취업 준비생입니다.**
 </div>
 
 
 # 🛠️ Tech Stack 🛠️
 ---
 <div align="center">
-Back-End
-  
+**Back-End**
+<img src="https://img.shields.io/badge/bright-green?style=for-the-badge&logo=Spring Boot&logoColor=white">
 </div>
 
 
 # 👋🏻 Contact
 ---
 <div align="center">
-Email : jeff970069@gmail.com
-Blog : https://dodokong.tistory.com
+**Email : jeff970069@gmail.com**
+**Blog : https://dodokong.tistory.com**
 </div>

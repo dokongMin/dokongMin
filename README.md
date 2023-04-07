@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 
 <h3> 🧑🏻‍💻 Self Introduction </h3>
+* * *
 <br>
 <div align="center">
 **백엔드 개발자로 취업을 꿈꾸는 취업 준비생입니다.**
@@ -25,24 +26,24 @@ Here are some ideas to get you started:
 
 
 <h3> 🛠️ Tech Stack 🛠️ </h3>
-Back-End
+* * *
 <br>
-- Spring Boot, Spring MVC <br>
-- Spring Data JPA, Querydsl <br>
-- Junit5 <br>
-- MySQL <br>
-- AWS <br>
-- Gradle <br>
-- IntelliJ, Visual Studio Code <br>
+Back-End
+* Spring Boot, Spring MVC <br>
+* Spring Data JPA, Querydsl <br>
+* Junit5 <br>
+* MySQL <br>
+* AWS <br>
+* Gradle <br>
+* IntelliJ, Visual Studio Code <br>
 <br>
 
 
 <h3> 👋🏻 Contact </h3>
-<div align="center">
+* * *
 <br>
-**Email : jeff970069@gmail.com**
-**Blog : https://dodokong.tistory.com**
-</div>
+**Email : jeff970069@gmail.com** <br>
+**Blog : https://dodokong.tistory.com** <br>
 
 
 

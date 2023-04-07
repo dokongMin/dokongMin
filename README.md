@@ -1,6 +1,5 @@
 ## 🧑🏻‍💻 Self Introduction
 * * *
-<br>
 백엔드 개발자로 취업을 꿈꾸는 취업 준비생입니다.
 <br>
 
@@ -21,7 +20,6 @@ Back-End
 
 ## 👋🏻 Contact
 * * *
-<br>
 - Email : jeff970069@gmail.com <br>
 - Blog : https://dodokong.tistory.com <br>
 

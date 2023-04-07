@@ -25,17 +25,15 @@ Here are some ideas to get you started:
 
 
 <h3> 🛠️ Tech Stack 🛠️ </h3>
-<div align="center">
 Back-End
 <br>
-- Spring Boot, Spring MVC, 
-- Spring Data JPA, Querydsl
-- Junit5
-- MySQL
-- AWS
-- Gradle
-- IntelliJ, Visual Studio Code
-</div>
+- Spring Boot, Spring MVC <br>
+- Spring Data JPA, Querydsl <br>
+- Junit5 <br>
+- MySQL <br>
+- AWS <br>
+- Gradle <br>
+- IntelliJ, Visual Studio Code <br>
 <br>
 
 

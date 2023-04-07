@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 </div>
 
 
-## 🛠️Tech Stack🛠️
-<div align="center">
+## 🛠️ Tech Stack 🛠️
 ---
+<div align="center">
 Back-End
   
 </div>

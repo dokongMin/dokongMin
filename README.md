@@ -8,7 +8,7 @@
 ## 🛠️ Tech Stack 🛠️ 
 * * *
 <br>
-## Back-End 
+Back-End 
 <br>
 - Spring Boot, Spring MVC <br>
 - Spring Data JPA, Querydsl <br>

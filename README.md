@@ -8,7 +8,7 @@
 * * *
 Back-End 
 <br>
-- Spring Boot, Spring MVC <br>
+- Spring Boot <br>
 - Spring Data JPA, Querydsl <br>
 - Junit5 <br>
 - MySQL <br>

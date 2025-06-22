@@ -1,6 +1,6 @@
 ## 🧑🏻‍💻 Self Introduction
 * * *
-백엔드 개발자로 취업을 꿈꾸는 취업 준비생입니다.
+주니어 백엔드 개발자로 일하고 있는 정민환 입니다. :)
 <br>
 
 
@@ -8,19 +8,21 @@
 * * *
 Back-End 
 <br>
-- Spring Boot <br>
-- Spring Data JPA, Querydsl <br>
+- Java <br>
+- Kotlin <br>
+- JPA <br>
+- Querydsl <br>
 - Junit5 <br>
 - MySQL <br>
-- AWS <br>
-- Gradle <br>
-- IntelliJ, Visual Studio Code <br>
+- Redis <br>
+- Mongo <br>
 <br>
 
 
 ## 👋🏻 Contact
 * * *
-- Email : jeff970069@gmail.com <br>
+- Email : alsghks9700@naver.com <br>
+- Blog : https://velog.io/@minkong12 <br>
 - Blog : https://dodokong.tistory.com <br>
 
 

@@ -6,7 +6,6 @@
 
 ## 🛠️ Tech Stack 🛠️ 
 * * *
-Back-End 
 <br>
 - Java <br>
 - Kotlin <br>
